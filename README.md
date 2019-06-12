@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The *Sound of Digital Transformation* is a rudimentary arduino workshop designed to demonstrate the integraiton of technologies in our society in the form of a hands-on exercise. Participants in the workshop will first build an "analog" piano using button switches, and will then "digitize" its functionality in the code.
+The *Sound of Digital Transformation* is a rudimentary arduino workshop designed to demonstrate the integration of technologies in our society in the form of a hands-on exercise. Participants in the workshop will first build an "analog" piano using button switches, and will then "digitize" its functionality in the code.
 
 ## Concepts Covered
 
