@@ -20,8 +20,8 @@ The *Sound of Digital Transformation* is a rudimentary arduino workshop designed
 
 ## Contents
 
-* ```piano.ino``` - sample arduino code for 
-* ```piezo.ino``` - sample arduino code for
+* ```piano.ino``` - sample arduino code for "analog" piano
+* ```piezo.ino``` - sample arduino code for "digitalized" piano
 * ```Sound of Digital Transformation.pptx``` - accompanying powerpoint slide with step by step instructions and discussion questions
 
 ## Material Requirements
